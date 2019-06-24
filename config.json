@@ -1,0 +1,14 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/shubhrant",
+    "prod_uri":"mysql://root:@localhost/shubhrant",
+    "fb_url":"https://facebook.com",
+    "tw_url":"https://twitter.com",
+    "gh_url":"https://github.com",
+    "gmail-user":"shubhranty@gmail.com",
+    "gmail-pass":"9034116198"
+
+  }
+}
